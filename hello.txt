@@ -1,2 +1,3 @@
 "Hello Git"
 "This is my second line." 
+"New feature: Git branching!" 
